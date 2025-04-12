@@ -1,0 +1,10 @@
+numpy 
+pandas
+scikit-learn 
+matplotlib
+seaborn
+flask
+##email\Script\activate (Where we create virtual environment )
+##pip freeze > requirments.txt
+##pip install -r requirments.txt
+#python -m venv email  (For create a virtual environment)
